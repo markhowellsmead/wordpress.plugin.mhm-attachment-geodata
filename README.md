@@ -9,6 +9,9 @@ Adds GEO data from an attachment file EXIF when fetching and storing its metadat
 
 ## Changelog
 
+### 1.0.0
+* Stable version.
+
 ### 0.0.1
 * Initial version.
 

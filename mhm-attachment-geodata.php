@@ -4,7 +4,7 @@ Plugin Name: Add GEO data to attachment metadata
 Plugin URI: https://github.com/markhowellsmead/wordpress.plugin.mhm-attachment-geodata
 Description: Adds GEO data from an attachment file EXIF when fetching and storing its metadata.
 Author: Mark Howells-Mead
-Version: 0.0.1
+Version: 1.0.0
 Author URI: http://markweb.ch/
  */
 
